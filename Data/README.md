@@ -31,6 +31,13 @@ Note: Additional data cleaning was conducted to ensure the movie details were ac
 <br><br>
 
 ## File Name: Merged Data
-The Mereged Data file combines Movie Comparisons and Movie Details, and is used to train and test the Random Forest and XGBoost models. <br><br> The target variable for these models is Re-Watch Desire, while the columns from Movie Details (excluding the categorical Genre variable) serve as the initial features. <br><br> After reviewing feature correlations, the Genre Flags 'Adventure', 'Animation', and 'Family' were removed to optimize the model.
+The Merged Data file combines Movie Comparisons and Movie Details, and is used to train and test the Random Forest and XGBoost models. <br><br> The target variable for these models is Re-Watch Desire, while the columns from Movie Details (excluding the categorical Genre variable) serve as the initial features. <br><br> After reviewing feature correlations, the Genre Flags ***'Adventure'***, ***'Animation'***, and ***'Family'*** were removed to optimize the model.
 
+<br><br>
 
+## File Name: New Movies
+The New Movies file introduces a set of unseen movies - including DiDi, Forrest Gump, American Psycho, Iron Man, and American Beauty - to evaluate the performance of the Random Forest model. <br><br> The Random Forest model was selected for this, as it is the better model for generalization on unseen data (evaluated in the script using MAE and RMSE). <br><br> These movies are used to test how well the model generalizes on data it hasn't encountered before, helping assess the accuracy and robustness of predictions on ***Re-Watch Desire*** for new films.
+
+<br><br>
+
+## File Name: New Details
