@@ -9,3 +9,14 @@
 
 <br>
 
+## File Name: Re-Watch Desire Distribution by Genre
+**Note: One Movie Can Fit into Multiple Genres**
+
+* **Romance, Crime, and Drama genres exhibit higher medians, suggesting these genres are more likely to be re-watched**
+* **Mystery has the highest median, but there are limited movies fitting this genre type in my collection**
+* **History and Biography films have lower medians, suggesting these genres are less likely to be re-watched**
+* **Biography, Fantasy, and Sci-Fi films have wide ranges in Re-Watch Desire, indicating these genres evoke a wide range of preferences**
+* **Mystery and Sport genres have the least variability, but there are also less movies fitting these genre types**
+<br><br>
+
+<br>
