@@ -13,6 +13,8 @@ This file stores the scoring for each movie comparison, tracking updates to ***R
 ## File Name: Comparison Results
 This file logs the outcomes of each pairwise movie comparison, tracking which movie was preferred in each match. It reflects the decisions made on whether one movie was preferred over another, or in the event of a tie, records the tie between the two movies.
 
+<br>
+
 ## File Name: Movie Details
 The following columns are scrapped from IMDb for the initial 50 movies saved in Movie Comparisons:
 * IMDb Rating:
