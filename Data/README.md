@@ -41,3 +41,15 @@ The New Movies file introduces a set of unseen movies - including DiDi, Forrest 
 <br><br>
 
 ## File Name: New Details
+The following columns are scrapped from IMDb for DiDi, Forrest Gump, American Psycho, Iron Man, and American Beauty:
+* IMDb Rating: The movie's rating as provided by IMDb, reflecting the average audience score.
+* Box Office (In Millions): The cumulative worldwide gross earnings of the movie, converted to millions.
+* MPAA Numeric: A numeric representation of the movie's MPAA rating, mapped from G (1) to R (4), or 0 if unrated.
+* Award Winner: A binary indicator (1 or 0) showing whether the movie won any awards.
+* Foreign Film: A binary indicator (1 or 0) representing if the movie was filmed outside the USA and Canada.
+* Runtime (min): The total runtime of the movie in minutes.
+* Genre: The genre(s) associated with the movie.
+* Genre Flags: The genre(s) of the movies, split into binary fields (1 or 0) for each genre category.
+<br>
+Note: Additional data cleaning was conducted to ensure the movie details were accurate.
+
