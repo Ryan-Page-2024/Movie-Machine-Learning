@@ -17,6 +17,5 @@
 * **History and Biography films have lower medians, suggesting these genres are less likely to be re-watched**
 * **Biography, Fantasy, and Sci-Fi films have wide ranges in Re-Watch Desire, indicating these genres evoke a wide range of preferences**
 * **Mystery and Sport genres have the least variability, but there are also less movies fitting these genre types**
-<br><br>
 
 <br>
