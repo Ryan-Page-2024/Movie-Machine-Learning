@@ -30,7 +30,9 @@
 <br>
 
 ## File Name: Final Movie Re-Watch Desire
-All 55 movies with their associated Actual Re-Watch Desire scores generated through direct pairwise comparison.
+All 55 movies with their associated Actual Re-Watch Desire scores generated through pairwise comparison
+
+<br>
 
 # Reference Images for Python Script
 
