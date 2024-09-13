@@ -17,10 +17,11 @@ This file logs the outcomes of each pairwise movie comparison, tracking which mo
 
 ## File Name: Movie Details
 The following columns are scrapped from IMDb for the initial 50 movies saved in Movie Comparisons:
-* IMDb Rating:
-* Box Office (In Millions):
-* MPAA Numeric:
-* Award Winner:
-* Foreign Film:
-* Runtime (min):
-* Genre:
+* IMDb Rating: The movie's rating as provided by IMDb, reflecting the average audience score.
+* Box Office (In Millions): The cumulative worldwide gross earnings of the movie, converted to millions.
+* MPAA Numeric: A numeric representation of the movie's MPAA rating, mapped from G (1) to R (4), or 0 if unrated.
+* Award Winner: A binary indicator (1 or 0) showing whether the movie won any awards.
+* Foreign Film: A binary indicator (1 or 0) representing if the movie was filmed outside the USA and Canada.
+* Runtime (min): The total runtime of the movie in minutes.
+* Genre: The genre(s) associated with the movie.
+* Genre Flags: The genre(s) of the movies, split into binary fields (1 or 0) for each genre category
