@@ -29,6 +29,14 @@
 
 <br>
 
+# Reference Images for Python Script
 
+## File Name: Correlations
+Generated when evaluating the correlations between features, which resulted in the removal of 'Adventure', 'Animation', and 'Family' features
 
+<br>
 
+## File Name: RF Predictions
+Generated when predicting ***Re-Watch Desire*** for DiDi, Forrest Gump, American Psycho, Iron Man, and American Beauty using the Random Forest Model. Values range from approximately 4.69 to 6.14.
+
+<br>
