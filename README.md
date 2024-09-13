@@ -1,5 +1,4 @@
-# Sneak a Peek Behind the Scenes: 
-# Movies & Machine Learning
+# Sneak a Peek Behind the Scenes: Movies & Machine Learning
 I built machine learning models and trained them on a collection of movies to assess how likely I am to re-watch some of my favorite films.
 
 Utilizing pairwise comparison and feature engineering, I created preference data and features encompassing themes such as: Genre, Runtime, Budget, Release Year, and More!
