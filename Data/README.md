@@ -69,3 +69,6 @@ The file compares the actual and predicted ***Re-Watch Desire*** for DiDi, Forre
 This file tracks the scoring for each movie comparison, including both the new movies (DiDi, Forrest Gump, American Psycho, Iron Man, and American Beauty) and the original 50 movies. It monitors updates to Re-Watch Desire, Wins, Losses, and Ties. Based on user input, a movie's Re-Watch Desire increases by 0.1 for a win and decreases by 0.1 for a loss, with scores clipped between 0 and 10.
 
 <br><br>
+
+## File Name: Final Movies Data
+The Final Movies Data file combines New Movie Comparisons and New Details, and represents the final dataset with relevant columns present for all 55 movies.
