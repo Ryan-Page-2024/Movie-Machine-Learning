@@ -64,3 +64,8 @@ This file contains the predicted ***Re-Watch Desire*** for DiDi, Forrest Gump, A
 The file compares the actual and predicted ***Re-Watch Desire*** for DiDi, Forrest Gump, American Psycho, Iron Man, and American Beauty, with both values rounded. <br><br> It includes a calculated difference between the actual and predicted scores, showing how closely the Random Forest model's predictions align with the actual ***Re-Watch Desire***. The differences range from -1.0 to 1.3, highlighting where the model either overestimated or underestimated the Re-Watch Desire.
 
 <br><br>
+
+## File Name: New Movie Comparisons
+This file tracks the scoring for each movie comparison, including both the new movies (DiDi, Forrest Gump, American Psycho, Iron Man, and American Beauty) and the original 50 movies. It monitors updates to Re-Watch Desire, Wins, Losses, and Ties. Based on user input, a movie's Re-Watch Desire increases by 0.1 for a win and decreases by 0.1 for a loss, with scores clipped between 0 and 10.
+
+<br><br>
