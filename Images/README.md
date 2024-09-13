@@ -1,4 +1,4 @@
-# Table of Contents
+# Visualization Findings
 
 ## File Name: Feature Importance in Re-Watch Predictions
 * **IMDb Rating is the most significant factor in predicting Re-Watch Desire, suggesting high ratings align with high Re-Watch Desire**
