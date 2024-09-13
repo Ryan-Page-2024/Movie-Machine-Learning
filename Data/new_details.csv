@@ -1,0 +1,6 @@
+Movie,IMDb Rating,Box Office (In Millions),MPAA Numeric,Award Winner,Foreign Film,Runtime (min),Budget (In Millions),Action,Biography,Comedy,Crime,Drama,Fantasy,History,Music,Musical,Mystery,Romance,Sci-Fi,Sport,Thriller,War
+DiDi,7.6,4.7,4,1,0,93,15,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Forrest Gump,8.8,678,3,1,0,142,55,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1
+American Psycho,7.6,34,4,1,0,102,7,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+Iron Man,7.9,585,3,1,0,126,140,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+American Beauty,8.3,356,4,1,0,122,15,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0

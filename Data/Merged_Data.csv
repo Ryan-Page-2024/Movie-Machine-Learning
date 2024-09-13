@@ -1,0 +1,50 @@
+Movie,Re-Watch Desire,Wins,Losses,Ties,IMDb Rating,Box Office (In Millions),MPAA Numeric,Award Winner,Foreign Film,Runtime (min),Predominate Language is English,Budget (In Millions),Genre,Action,Adventure,Animation,Biography,Comedy,Crime,Drama,Family,Fantasy,History,Music,Musical,Mystery,Romance,Sci-Fi,Sport,Thriller,War
+It's a Wonderful Life,9.9,49,0,0,8.6,6.5,2,0,0,130,1,3.18,"Drama, Family, Fantasy, Romance",0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0
+Good Will Hunting,9.7,48,1,0,8.3,225,4,1,0,126,1,10,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Catch Me If You Can,9.5,47,2,0,8.1,352,3,0,0,141,1,52,"Biography, Crime, Drama",0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Whiplash,9.1,45,4,0,8.5,49,4,1,0,106,1,3.3,"Drama, Music",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+Eternal Sunshine of the Spotless Mind,8.9,44,5,0,8.3,74,4,1,0,108,1,20,"Drama, Romance, Sci-Fi",0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+The Big Short,8.7,43,6,0,7.8,133,4,1,0,130,1,50,"Biography, Comedy, Drama, History",0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Dallas Buyers Club,8.7,43,6,0,7.9,55,4,1,0,117,1,5,"Biography, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Coraline,7.9,39,10,0,7.8,125,2,0,0,100,1,60,"Animation, Drama, Family, Fantasy",0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Joker,7.7,38,11,0,8.4,1074,4,1,0,122,1,55,"Crime, Drama, Thriller",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Big Fish,7.5,37,12,0,8,123,3,0,0,125,1,70,"Adventure, Drama, Fantasy, Romance",0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+The Dark Knight,7.1,35,14,0,9,1005,3,1,0,152,1,185,"Action, Crime, Drama, Thriller",1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+Fight Club,7.1,35,14,0,8.8,101,4,0,0,139,1,63,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Lion King,7.1,35,14,0,8.5,968,1,1,0,88,1,45,"Animation, Adventure, Drama, Family, Fantasy, Musical",0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+Coco,7.1,35,14,0,8.4,814,2,1,0,105,1,175,"Animation, Adventure, Drama, Family, Fantasy, Music, Mystery",0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0
+WALL.E,6.7,33,16,0,8.4,533,1,1,0,98,1,180,"Animation, Romance, Sci-Fi",0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Inside Out,6.7,33,16,0,8.1,858,2,1,0,95,1,175,"Animation, Adventure, Comedy, Drama, Family, Fantasy",0,1,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Hercules,6.7,33,16,0,7.3,252,1,0,0,93,1,85,"Animation, Action, Adventure, Comedy, Family, Fantasy, Musical, Romance",1,1,1,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0
+Tarzan,6.7,33,16,0,7.3,448,1,1,0,88,1,130,"Animation, Adventure, Comedy, Drama, Family, Music",0,1,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+Uncut Gems,6.1,30,19,0,7.4,50,4,0,0,135,1,19,"Crime, Drama, Thriller",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0
+The Farewell,5.9,29,20,0,7.5,23,2,0,1,100,0,3,"Comedy, Drama",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Big Lebowski,5.7,28,21,0,8.1,46,4,0,0,117,1,15,"Comedy, Crime",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Up,5.5,27,22,0,8.3,735,2,1,0,96,1,175,"Animation, Adventure, Comedy, Drama, Family",0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+The Nightmare Before Christmas,5.3,26,23,0,7.9,91,2,0,0,76,1,18,"Animation, Family, Fantasy, Musical",0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+Big Hero 6,5.1,25,24,0,7.8,658,2,1,0,102,1,165,"Animation, Action, Adventure, Comedy, Crime, Family, Sci-Fi",1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+Titanic,5.1,25,24,0,7.9,2200,4,1,0,195,1,200,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+The Imitation Game,4.9,24,25,0,8,223,3,1,0,113,1,14,"Biography, Drama, Thriller, War",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Soul,4.7,23,26,0,8,121,2,1,0,100,1,150,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Music",0,1,1,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0
+The Fabelmans,4.7,23,26,0,7.5,45,3,0,0,151,1,40,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+The Social Network,4.5,22,27,0,7.8,224,3,1,0,120,1,40,"Biography, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Parasite,3.9,19,30,0,8.5,263,4,1,1,132,0,11,"Drama, Thriller",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+Office Space,3.9,19,30,0,7.6,12,4,0,0,89,1,10,Comedy,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moneyball,3.7,18,31,0,7.6,110,3,0,0,133,1,50,"Biography, Drama, Sport",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Turning Red,3.7,18,31,0,7,20,2,0,0,100,1,175,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Music, Romance",0,1,1,0,1,0,1,1,1,0,1,0,0,1,0,0,0,0
+Cars,3.5,17,32,0,7.2,462,1,0,0,117,1,120,"Animation, Adventure, Comedy, Family, Sport",0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+Mulan,3.3,16,33,0,7.7,304,1,0,0,88,1,90,"Animation, Adventure, Comedy, Family, Fantasy, Musical, War",0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1
+Your Name,2.9,14,35,0,8.4,380,2,0,1,106,0,5,"Animation, Drama, Fantasy, Romance",0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+Logan,2.7,13,36,0,8.1,619,4,0,0,137,1,97,"Action, Drama, Sci-Fi, Thriller",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+Straight Outta Compton,2.3,11,38,0,7.8,201,4,0,0,147,1,28,"Biography, Drama, History, Music",0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+La La Land,2.3,11,38,0,8,448,3,1,0,128,1,30,"Comedy, Drama, Music, Musical, Romance",0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+The Pursuit of Happyness,2.1,10,39,0,8,307,3,0,0,117,1,55,"Biography, Drama",0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Moana,1.9,9,40,0,7.6,645,2,0,0,107,1,150,"Animation, Adventure, Comedy, Family, Fantasy, Musical",0,1,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+Vice,1.7,8,41,0,7.2,77,4,1,0,132,1,60,"Biography, Comedy, Drama, History",0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Lilo & Stitch,1.7,8,41,0,7.3,273,2,0,0,85,1,80,"Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",1,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0
+Past Lives,1.5,7,42,0,7.8,22,3,0,1,106,0,10,"Drama, Romance",0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+The Wolf of Wall Street,1.1,5,44,0,8.2,406,4,0,0,180,1,100,"Biography, Comedy, Crime, Drama",0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Monsters, Inc.",0.9,4,45,0,8.1,577,1,0,0,92,1,115,"Animation, Adventure, Comedy, Family, Fantasy",0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+The Whale,0.5,2,47,0,7.6,55,4,1,0,117,1,3,Drama,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Kung Fu Panda,0.3,1,48,0,7.6,631,2,0,0,92,1,130,"Animation, Action, Adventure, Comedy, Family, Fantasy",1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+The Lego Movie,0.3,1,48,0,7.7,468,2,0,0,100,1,60,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",1,1,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0
