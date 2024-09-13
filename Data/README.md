@@ -26,7 +26,6 @@ The following columns are scrapped from IMDb for the initial 50 movies saved in 
 * Genre: The genre(s) associated with the movie.
 * Genre Flags: The genre(s) of the movies, split into binary fields (1 or 0) for each genre category.
 <br>
-
 Note: Additional data cleaning was conducted to ensure the movie details were accurate.
 
 <br>
