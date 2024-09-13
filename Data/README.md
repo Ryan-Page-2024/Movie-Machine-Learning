@@ -61,6 +61,6 @@ This file contains the predicted ***Re-Watch Desire*** for DiDi, Forrest Gump, A
 <br><br>
 
 ## File Name: RF Results Comparison
-The file compares the actual and predicted ***Re-Watch Desire*** for DiDi, Forrest Gump, American Psycho, Iron Man, and American Beauty, with both values rounded. <br><br> It includes a calculated difference between the actual and predicted scores, showing how closely the Random Forest model's predictions align with the actual ***Re-Watch Desire***. The difference range from -1.0 to 1.3, highlighting where the model either overestimated or underestimated the Re-Watch Desire.
+The file compares the actual and predicted ***Re-Watch Desire*** for DiDi, Forrest Gump, American Psycho, Iron Man, and American Beauty, with both values rounded. <br><br> It includes a calculated difference between the actual and predicted scores, showing how closely the Random Forest model's predictions align with the actual ***Re-Watch Desire***. The differences range from -1.0 to 1.3, highlighting where the model either overestimated or underestimated the Re-Watch Desire.
 
 <br><br>
