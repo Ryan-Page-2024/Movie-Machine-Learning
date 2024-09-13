@@ -28,7 +28,7 @@ The following columns are scrapped from IMDb for the initial 50 movies saved in 
 <br>
 Note: Additional data cleaning was conducted to ensure the movie details were accurate.
 
-<br>
+<br><br>
 
 ## File Name: Merged Data
 
