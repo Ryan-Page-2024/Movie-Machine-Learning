@@ -31,6 +31,6 @@ Note: Additional data cleaning was conducted to ensure the movie details were ac
 <br><br>
 
 ## File Name: Merged Data
-The Mereged Data file combines Movie Comparisons and Movie Details, and is used to train and test the Random Forest and XGBoost models. The target variable for these models is Re-Watch Desire, while the columns from Movie Details (excluding the categorical Genre variable) serve as the initial features. <br> After reviewing feature correlations, the Genre Flags 'Adventure', 'Animation', and 'Family' were removed to optimize the model.
+The Mereged Data file combines Movie Comparisons and Movie Details, and is used to train and test the Random Forest and XGBoost models. The target variable for these models is Re-Watch Desire, while the columns from Movie Details (excluding the categorical Genre variable) serve as the initial features. After reviewing feature correlations, the Genre Flags 'Adventure', 'Animation', and 'Family' were removed to optimize the model.
 
 
