@@ -72,3 +72,5 @@ This file tracks the scoring for each movie comparison, including both the new m
 
 ## File Name: Final Movies Data
 The Final Movies Data file combines New Movie Comparisons and New Details, and represents the final dataset with relevant columns present for all 55 movies.
+
+<br><br>
