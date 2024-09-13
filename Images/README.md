@@ -19,3 +19,16 @@
 * **Mystery and Sport genres have the least variability, but there are also less movies fitting these genre types**
 
 <br>
+
+## File Name: Average Re-Watch Desire by MPAA Rating
+* **R-Rated films have highest Re-Watch Desire, suggesting more mature content tends to be re-watched**
+* **G-Rated films have second highest Re-Watch Desire, indicating family-friendly or universally accessible films are still enjoyed**
+* **PG-13 movies have a moderate Re-Watch Desire, possibly explained by these movies catering to audiences of a wider variety**
+* **PG movies have the lowest Re-Watch Desire, while intended for a broad audience, these films might be less engaging**
+* **General Implications: this data shows that more mature content tends to draw higher Re-Watch Desire**
+
+<br>
+
+
+
+
