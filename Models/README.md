@@ -43,4 +43,4 @@ XGBoost has a marginally better Cross-Validation MAE, indicating that it has bet
 <br>
 
 ## Conclusion
-Given that Random Forest has lower test error (MAE & RMSE), Random Forest is the better model in this case for generalization on unseen data. 
+Given that Random Forest has lower test error, Random Forest is the better model in this case for generalization on unseen data. 
